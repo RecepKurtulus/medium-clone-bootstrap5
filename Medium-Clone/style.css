@@ -1,0 +1,124 @@
+.bg-yellow{
+
+    background-color: #FFC017;
+}
+.navbar-config{
+    height: 75px;
+    border-bottom: black 1px solid;
+}
+.nav-right{
+    margin-right: 22px;
+    margin-top: 10px;
+}
+.border-30{
+    border-radius: 30px;
+}
+.border-10{
+    border-radius: 10px;
+}
+.top-things-area{
+    height: 454.6px;
+    border-bottom: black 1px solid;
+    margin-top:70px;
+    
+    
+
+}
+.top-things{
+    padding-top: 80px;
+}
+.top-things-header{
+    font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+    color:black;
+    font-weight: 400;
+    margin: 0;
+    font-size: 106px;
+    
+}
+.top-things-p{
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+}
+.top-things-image{
+    max-width: 85%;
+    max-height: 85%;
+}
+.content-area{
+    margin-top: 50px;
+    padding-left: 170px;
+    padding-right: 170px;
+    border-bottom: rgba(77, 77, 77, 0.389) 1px solid;
+}
+.content-ppics{
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+
+}.content-numbers{
+    font-size: 30px;
+    color: rgba(230, 230, 230, 1);
+    
+}
+.bottom-content-area{
+    padding-left: 170px;
+    padding-right: 120px;
+    margin-top: 50px;
+}
+.bottom-content-right-gray{
+    background-color: white;
+    padding:7px 12px 7px 12px;
+    margin: 5px;
+    border-width: 1px;
+    border-radius: 3px;
+    border-color: rgba(129, 129, 129, 0.258);
+}
+.bottom-content-right-gray-text{
+    color:rgba(77, 77, 77, 0.814) ;
+    font-size: 13px;
+}
+.border-1{
+    border-radius: 10px;
+    border: 10px;
+    border-color: black;
+    
+    
+}
+.right-bottom-final-text{
+    color:rgba(77, 77, 77, 0.814) ;
+    font-size: 15px; 
+    font-weight:500;
+}
+.rigt-content-final-area{
+    background-color: white;
+    padding:7px 12px 7px 12px;
+    margin: 2px;
+    border-width: 1px;
+    border-radius: 3px;
+    border-color: rgba(129, 129, 129, 0.258);
+}
+.left-bottom-contentpp{
+    border-radius: 50%;
+}
+.left-bottom-text1{
+    font-size: 11px;
+    font-weight: 700;
+    margin-top: 7px;
+}
+.left-bottom-text2{
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: -3px;
+    margin-bottom: -1px;
+    margin-top: -15px;
+}
+.left-bottom-text3{
+    margin-left: -3px;
+    color:rgba(77, 77, 77, 0.814) ;
+}
+.left-bottom-text4{
+    margin-left: -3px;
+    margin-top: -12px;
+    color:rgba(77, 77, 77, 0.814) ;
+    font-size: 10px;
+
+}
